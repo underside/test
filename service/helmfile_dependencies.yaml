@@ -1,0 +1,5 @@
+hooks:
+- name: "helmfile-hooks"
+  version: "v1"
+  dest: "hooks"
+
